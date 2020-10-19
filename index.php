@@ -16,7 +16,11 @@
             /*and see that
             with apache (multy line commant)
             installl */
-            echo "This is PHP body";
+            echo "This is PHP body  ";
+            $number = 100;
+            echo $number;
+            $var="Arshad";
+            echo $var
         ?>
     </body>
 
