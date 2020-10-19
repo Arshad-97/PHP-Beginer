@@ -17,10 +17,15 @@
             with apache (multy line commant)
             installl */
             echo "This is PHP body  ";
-            $number = 100;
-            echo $number;
+            
             $var="Arshad";
-            echo $var
+            echo $var;
+
+            //math operators
+            $number = 100;
+            $b = 20;
+            echo $number + $b;
+
         ?>
     </body>
 
