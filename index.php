@@ -7,13 +7,17 @@
 </head>
 
 <body>
-    This is html body 
+    This is html body
 
     <body>
 
         <?php
-echo "This is PHP body"
-?>
+            //this is use for content ( single line commant //)
+            /*and see that
+            with apache (multy line commant)
+            installl */
+            echo "This is PHP body";
+        ?>
     </body>
 
 </body>
