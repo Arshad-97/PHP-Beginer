@@ -31,6 +31,17 @@
             $number *= 20;
             echo $number;
 
+            // conconconate
+            $var1 = "tamil ";
+            $var2 = "muslim ";
+
+            echo $var1.$var2;
+
+            $var3 = "tamil ";
+            $var3 .= "muslim ";
+
+            echo $var3;
+
 
         ?>
     </body>
