@@ -37,10 +37,16 @@
 
             echo $var1.$var2;
 
-            $var3 = "tamil ";
+            $var3 = "tamil";
             $var3 .= "muslim ";
 
             echo $var3;
+
+            // using html in php
+            $var4 = "tamil </br>";
+            $var4 .= "muslim ";
+
+            echo "</br>".$var4;
 
 
         ?>
