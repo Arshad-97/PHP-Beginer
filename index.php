@@ -48,6 +48,14 @@
 
             echo "</br>".$var4;
 
+            //function
+            $x = "helloword";
+
+            echo strlen($x);
+
+            echo strpos($x,'w');
+
+
 
         ?>
     </body>
