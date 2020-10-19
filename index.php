@@ -26,6 +26,12 @@
             $b = 20;
             echo $number + $b;
 
+            //Overwrite
+            $number = 100;
+            $number *= 20;
+            echo $number;
+
+
         ?>
     </body>
 
